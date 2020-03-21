@@ -25,3 +25,19 @@
   background-color: #4CAF50;
   color: white;
 }
+
+
+#hook #masonlookspresidential{
+  width: auto;
+  height: 100%;
+  float: left;
+}
+#hook #masonintshirt{
+  width: 50%;
+  height: auto;
+  float :right;
+}
+
+#aboutme{
+  float:left;
+}
