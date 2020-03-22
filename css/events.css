@@ -26,26 +26,9 @@
   color: white;
 }
 
-
-#hook #masonlookspresidential{
-  width: 50%;
-  height: auto;
-  float: left;
-}
-#hook #masonintshirt{
-  width: 50%;
-  height: auto;
-  float :right;
-}
-
-#aboutme{
-  float:left;
-}
-
-/*
 #mason-on-the-side{
   width: 10%;
+  height: 100%;
+  float: bottom left;
   position: fixed;
-  height: auto;
 }
-*/
