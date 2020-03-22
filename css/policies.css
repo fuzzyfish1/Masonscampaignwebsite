@@ -1,5 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
+  margin-left: 10%;
   background-color: #333;
   overflow: hidden;
 }
@@ -24,4 +25,13 @@
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+#mason-on-the-side{
+  width: 10%;
+  height: 100%;
+  float: bottom left;
+  position: fixed;
+}
+#Masons-Policies{
+  padding-left: 12%;
 }
