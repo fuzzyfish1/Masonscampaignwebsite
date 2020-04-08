@@ -11,3 +11,5 @@
 	text(hour+':'+minute+':'+second);
 
  }
+setup();
+draw();
