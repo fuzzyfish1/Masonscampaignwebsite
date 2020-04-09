@@ -11,13 +11,16 @@
 #background{
   background-color: #000;
 }
-.topnav iframe{
+#clock{
+  padding: 10px;
   float:left;
 }
 .topnav table{
   overflow: hidden;
   opacity: 1;
   background-color:black;
+  padding-bottom: 25px;
+  padding-right: 15px;
 }
 /* Style the links inside the navigation bar */
 .topnav table a {
@@ -41,13 +44,36 @@
   background-color: #96ff64;
   color:  #000;
 }
-.topnav p{
+#moto{
   font-size: 50px;
   color:white;
 }
-.topnav #mason-looking-presidential{
+#mason-looking-presidential{
   width:25%;
   float:right;
+}
+.topnav #Mason-colton-logo{
+  padding: 5px;
+  float:left;
+}
+.topnav img{
+  float: right;
+  height: 60px;
+  width: auto;
+}
+#policies p{
+  font-size: 20px;
+  color:white;
+  float:left;
+}
+#policies body{
+  float:left;
+  background-image: url("../images/mason-in-suit-facing-camera.jpg");
+}
+#policies h1{
+  float: left;
+  color:white;
+  font-size: 30px
 }
 /*
 #hook #masonlookspresidential{
